@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resize_Array", "Resize_Array\Resize_Array.csproj", "{8FB20C51-5701-43FE-82BA-3CB42503716B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resize_Array_Tests", "UnitTestProject1\Resize_Array_Tests.csproj", "{7770D8C0-8E27-48B8-A1B0-DEB0C34BCFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB20C51-5701-43FE-82BA-3CB42503716B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB20C51-5701-43FE-82BA-3CB42503716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB20C51-5701-43FE-82BA-3CB42503716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB20C51-5701-43FE-82BA-3CB42503716B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7770D8C0-8E27-48B8-A1B0-DEB0C34BCFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7770D8C0-8E27-48B8-A1B0-DEB0C34BCFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7770D8C0-8E27-48B8-A1B0-DEB0C34BCFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7770D8C0-8E27-48B8-A1B0-DEB0C34BCFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7216A481-3DA4-4B23-9ABC-DA6437858D85}
+	EndGlobalSection
+EndGlobal
